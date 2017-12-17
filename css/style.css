@@ -1,0 +1,22 @@
+body {
+    background-color: coral;
+}
+
+img {
+    height: 68%;
+    width: 65%;
+    position: relative;
+    left: 250px;
+    
+}
+
+p {
+    position: relative;
+    height: 200px;
+    width: 300px;  
+    bottom: 330px;
+    left: 730px;
+    color: blanchedalmond;
+    font-size: 2em;
+}
+
